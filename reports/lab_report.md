@@ -43,7 +43,7 @@ State schema is built on a TypedDict representing the agent context:
 
 ## 4. Scenario results
 
-Here is the metrics summary from `outputs/metrics.json`:
+Here is the metrics summary:
 - **Total Scenarios**: 7
 - **Success Rate**: 100.00%
 - **Average Nodes Visited**: 6.43
